@@ -24,6 +24,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://maven.apache.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/maven.png" alt="maven" width="120" height="40"/> </a> 
 
+<a href="https://www.netlify.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/netlify.png" alt="netlify" width="120" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/python-original.svg" alt="python" width="40" height="40"/> </a> 
