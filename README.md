@@ -9,6 +9,7 @@
 <p align="left"> 
 <a href="https://apexcharts.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/apexcharts.png" alt="apexcharts" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://beagleboard.org/bone" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/beaglebone.png" alt="beaglebone" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -25,6 +26,7 @@
 <a href="https://maven.apache.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/maven.png" alt="maven" width="120" height="40"/> </a> 
 
 <a href="https://www.netlify.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/netlify.png" alt="netlify" width="120" height="40"/> </a> 
+<a href="https://www.overleaf.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/overleaf-logo.png" alt="overleaf" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/python-original.svg" alt="python" width="40" height="40"/> </a> 
