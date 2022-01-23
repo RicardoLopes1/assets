@@ -35,3 +35,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/typescript-icon.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.youtube.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/yt-icon.png" alt="youtube" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Badge</h3>
+<p align="left"> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Containers-e-Docker-2022-01-19.png" alt="Containers e Docker" width="40%" height="40%"/> </a> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Deploy-no-Kubernetes-2022-01-23.png" alt="Deploy no Kubernetes" width="40%" height="40%"/> </a> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Pipelines-CICD-2022-01-23.png" alt="Pipelines CI CD" width="40%" height="40%"/> </a>
+</p>
