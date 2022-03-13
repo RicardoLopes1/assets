@@ -10,6 +10,7 @@
 <a href="https://angular.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/angular-icon.svg" alt="Angular" width="40" height="40"/> </a> 
 <a href="https://apexcharts.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/apexcharts.png" alt="apexcharts" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://github.com/axios" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/axios-icon.png" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://beagleboard.org/bone" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/beaglebone.png" alt="beaglebone" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -19,6 +20,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/h2-database-logo.png" alt="html5" width="80" height="40"/> </a> 
 <a href="https://www.instagram.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/ig-icon.png" alt="instagram" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
