@@ -44,7 +44,7 @@
 <a href="https://www.prisma.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/prismajs-icon.png" title="Prisma" alt="Prisma" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/springio-icon.svg" title=="Spring" alt="Spring" width="40" height="40" /> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/springio-icon.svg" title="Spring" alt="Spring" width="40" height="40" /> </a>
 <a href="https://swc.rs/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/speedy-web-compiler-logo.png" title="Speedy Web Compiler" alt="Speedy Web Compiler" width="80" height="40"/> </a>
 
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/sqlite-logo.gif" title="SQLite" alt="SQLite" width="120" height="50"/> </a>
