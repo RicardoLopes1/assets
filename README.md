@@ -1,8 +1,8 @@
 # assets
 
 <p align="left">
-<a href="https://linkedin.com/in/paulo-ricardo-da-silva-lopes-092406197" target="_blank"><img align="center" src="https://github.com/RicardoLopes1/assets/blob/main/icon/linkedin-icon.svg" alt="paulo-ricardo-da-silva-lopes-092406197" height="30" width="40" /></a>
-<a href="https://fb.com/ricardosilva31" target="_blank"><img align="center" src="https://github.com/RicardoLopes1/assets/blob/main/icon/facebook-icon.svg" alt="ricardosilva31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-ricardo-da-silva-lopes-092406197" target="_blank"><img align="center" src="https://github.com/RicardoLopes1/assets/blob/main/icon/linkedin-icon.svg" title="Linkedin de Paulo Ricardo" alt="paulo-ricardo-da-silva-lopes-092406197" height="30" width="40" /></a>
+<a href="https://fb.com/ricardosilva31" target="_blank"><img align="center" src="https://github.com/RicardoLopes1/assets/blob/main/icon/facebook-icon.svg" title="Facebook de Paulo Ricardo" alt="ricardosilva31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,10 +33,10 @@
 
 <a href="https://maven.apache.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/maven.png" title="Maven" alt="Maven" width="120" height="40"/> </a> 
 <a href="https://www.netlify.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/netlify.png" title="Netlify" alt="Netlify" width="120" height="40"/> </a> 
-<a href="https://mailtrap.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/mailtrap-new-logo.svg" tile="Mailtrap" alt="Mailtrap" width="80" height="40"/> </a> 
+<a href="https://mailtrap.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/mailtrap-new-logo.svg" title="Mailtrap" alt="Mailtrap" width="80" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="40"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/nodejs-icon.svg" title="Node.js" alt="Node.js" width="70" height="50"/> </a> 
-<a href="https://nodemailer.com/about/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/nodemailer-icon.png" title="Nodemailer" alt="Nodemailer" width="60" height="40"/> </a> 
+<a href="https://nodemailer.com/about/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/nodemailer-icon.png" title="Nodemailer" alt="Nodemailer" width="100" height="50"/> </a> 
 <a href="https://www.overleaf.com" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/overleaf-logo.png" alt="overleaf" width="40" height="40"/> </a> 
 
 <a href="https://phosphoricons.com/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/phosphor-icons-icon.png" title="Phosphor Icons" alt="Phosphor Icons" width="40" height="40"/> </a> 
@@ -44,8 +44,8 @@
 <a href="https://www.prisma.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/prismajs-icon.png" title="Prisma" alt="Prisma" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/springio-icon.svg" title=="Spring" alt="Spring" width="40" height="40"/> </a>
-<a href="https://swc.rs/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/speedy-web-compiler-logo.png" title="Speedy Web Compiler" alt="Speedy Web Compiler" width="60" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/springio-icon.svg" title=="Spring" alt="Spring" width="40" height="40" /> </a>
+<a href="https://swc.rs/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/speedy-web-compiler-logo.png" title="Speedy Web Compiler" alt="Speedy Web Compiler" width="80" height="40"/> </a>
 
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/sqlite-logo.gif" title="SQLite" alt="SQLite" width="120" height="50"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> </a>
